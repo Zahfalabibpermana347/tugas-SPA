@@ -1,0 +1,28 @@
+body{
+    background: black;
+}
+.container1{
+    max-width: 1170px;
+    margin: auto;
+  }
+  .row{
+    display: flex;
+    flex-wrap: wrap;
+  }
+  ul{
+    list-style: none;
+  }
+  .footer{
+    padding: 70px 0;
+    background-color: #1B1A17;
+    
+  }
+  .footer-col{
+    width: 25%;
+    padding: 0 15px;
+  }
+  .footer-col h4{
+    font-size: 18px;
+    text-transform: capitalize;
+    color: #F0A500;
+  }
